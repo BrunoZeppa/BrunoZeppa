@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrunoZeppa
 - 👀 I’m interested in Science And Technology
 - 🌱 I’m currently learning Python and react native
-- 💞️ I’m looking to collaborate on big projects
+- 🚀 I’m looking to collaborate on big projects
 - 📫 How to reach me zegb@gmail.com
 
 <!---
